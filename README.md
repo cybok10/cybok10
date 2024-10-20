@@ -1,4 +1,4 @@
-- 👋 Hi, I’m cyber_X
+- 👋 Hi, I’m Sathish 
 - 👀 I’m interested in ...cyber security
 - 🌱 I’m currently learning ...ethical hacking
 
